@@ -7,7 +7,7 @@
 - [Reading](#reading)
 - [Videos](#videos)
 - [Events](#events)
-- [Research Papers](#research-papers)
+- [Projects](#projects)
 - [Newsletters](#newsletters)
 
 ## Reading
@@ -21,7 +21,9 @@
 
 - [Festival of Maintenance](https://festivalofmaintenance.org.uk/) - Follow FoM on [Twitter](https://twitter.com/MaintenanceFest) and [LinkedIn](https://www.linkedin.com/company/maintenancefest).
 
-## Research Papers
+## Projects
+
+- [Topic Hacking](https://github.com/maintenancefest/topic-hacking) - Rethinking open collaboration, research and publishing.
 
 ## Newsletters
 
