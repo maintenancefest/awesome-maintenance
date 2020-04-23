@@ -4,18 +4,19 @@
 
 ## Contents
 
-- [Reading](#reading)
 - [Videos](#videos)
+- [Articles](#articles)
 - [Events](#events)
 - [Projects](#projects)
 - [Newsletters](#newsletters)
 
-## Reading
-
-
 ## Videos
 
 - [Festival of Maintenance YouTube Channel](https://www.youtube.com/channel/UCpufp_ikE1old2nGP5XhpWQ)
+
+## Articles
+
+- [Why repair is essential in times of crisis](https://repair.eu/news/why-repair-is-essential-in-times-of-crisis/) - Apr 21, 2020.
 
 ## Events
 
