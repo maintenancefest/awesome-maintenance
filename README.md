@@ -4,11 +4,16 @@
 
 ## Contents
 
+- [Networks and Communities](#networks-and-communities)
 - [Videos](#videos)
 - [Articles](#articles)
 - [Events](#events)
 - [Projects](#projects)
 - [Newsletters](#newsletters)
+
+## Networks and Communities
+
+- [The Maintainers](https://themaintainers.org/) - A global research network interested in the concepts of maintenance, infrastructure, repair, and the myriad forms of labor and expertise that sustain our human-built world.
 
 ## Videos
 
@@ -21,10 +26,6 @@
 ## Events
 
 - [Festival of Maintenance](https://festivalofmaintenance.org.uk/) - Follow FoM on [Twitter](https://twitter.com/MaintenanceFest) and [LinkedIn](https://www.linkedin.com/company/maintenancefest).
-
-## Projects
-
-- [Topic Hacking](https://github.com/maintenancefest/topic-hacking) - Rethinking open collaboration, research and publishing.
 
 ## Newsletters
 
