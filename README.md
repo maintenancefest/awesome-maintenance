@@ -20,6 +20,7 @@
 
 ## Articles
 
+- [Design Debt](https://medium.com/@gavinelliott/design-debt-f8026795cc1c) - How to identify design debt, measure it and overcome it. May 20, 2020.
 - [Why repair is essential in times of crisis](https://repair.eu/news/why-repair-is-essential-in-times-of-crisis/) - Apr 21, 2020.
 - [Maintenance by design](https://uncertaintymindset.substack.com/p/15-maintenance-by-design) - How to think about designing people, teams, organizations, and supersystems to be ready for uncertainty. Feb 12, 2020.
 
